@@ -2,7 +2,7 @@
 
 This project is one mini Youtube recommendation system.
 
-Based on TensorFlow, it implements the famous paper <Deep Neural Networks for YouTube Recommendations>.
+Based on TensorFlow, it implements the famous paper "Deep Neural Networks for YouTube Recommendations".
 
 It uses dbpedia data,treats the documents as users, and the document's classification as the video.
 
